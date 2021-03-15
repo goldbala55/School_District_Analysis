@@ -11,6 +11,7 @@ A complete analysis of the City School district standardized testing scores resu
 
 ## Results
 After recreating the analysis below are the observations on changes observed in each report:
+
     * The district summary
       * There were subtle but clear drops in average math scores, and hte percentage of students passing the standard exams. Given the the impacted data has 461 students out of a population of 39,170 students (1.1%) 
     * The school summary
